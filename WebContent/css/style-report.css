@@ -1,0 +1,15 @@
+table{
+	background: white;
+	width: 100%;
+}
+table th{
+	padding: 7px;
+	text-align: left;
+	border: 1px solid #ddd;
+}
+table td{
+	padding: 7px;
+	border: 1px solid #ddd;
+}
+
+
